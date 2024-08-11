@@ -8,9 +8,10 @@ Ce projet est une application Vue.js configurée pour être exécutée dans un c
 - Docker Compose
 
 ## **Cloner le dépôt**
-
+```
 git clone https://github.com/votre-utilisateur/vuejs-app.git
-   cd vuejs-app
+cd vuejs-app
+```
 
 ## Construire l'image Docker
 ```
